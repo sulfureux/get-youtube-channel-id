@@ -1,0 +1,25 @@
+{
+  "name": "get-youtube-channel-id",
+  "description": "Get Youtube channel ID from Youtube's URL (async/await)",
+  "version": "0.0.3",
+  "main": "index.js",
+  "author": "Pierre Neter <pierreneter@gmail.com>",
+  "keywords": [
+    "youtube",
+    "channel",
+    "api",
+    "id"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "r2": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/pierreneter/get-youtube-channel-id/issues",
+    "email": "pierreneter@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pierreneter/get-youtube-channel-id.git"
+  }
+}
